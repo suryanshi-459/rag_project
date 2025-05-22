@@ -29,3 +29,5 @@ A lightweight Retrieval-Augmented Generation (RAG) system built with FastAPI, La
 | TTS (optional)  | `pyttsx3` or `gTTS`                |
 
 ---
+## 🧰 Explanation vedio link: 
+https://youtu.be/QmGNI18eZ8Q
